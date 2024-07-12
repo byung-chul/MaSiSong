@@ -7,6 +7,8 @@
 - 프로젝트는 Frontend와 Backend Mono Repository로 구성되어 있습니다.
 
 ## Project Tech Stack & Version & Tool
+- Java 17
+- Spring Boot 3.3.1
 
 ## Git Commit Message Template 설정하기
 - Git Commit Message Template을 설정하여, Commit Message Convention을 준수하도록 합니다.
